@@ -4,7 +4,7 @@ const CONFIG = {
     Cớ sao chỉ thấy nụ cười của em 
     Ngôi sao lấp lánh giữa đêm
     Tim anh bổng thấy êm đềm lạ thay `,
-    btnIntro: '❤',
+    btnIntro: 'hi',
     title: 'Phải chăng em đã yêu anh từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy anh đẹp trai này ',
     btnYes: 'Làm vợ anh nhá <33',
